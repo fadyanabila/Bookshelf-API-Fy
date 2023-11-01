@@ -1,6 +1,6 @@
 # CC-Bangkit2-2023
 
-Repository ini ditujukan untuk final assignment modul Belajar Membuat Aplikasi Back-End untuk Pemula dengan Google Cloud.
+This Repository intended for the final assignment of Belajar Membuat Aplikasi Back-End untuk Pemula dengan Google Cloud module.
 
-Tertanda,
+Regards,
 Fadya Nabila Fajarpoetri
